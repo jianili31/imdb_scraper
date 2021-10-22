@@ -1,3 +1,16 @@
+---
+layout: post
+title: My Blog 2
+---
+
+# Make a Web Scraper for Movie/TV Recommendation
+
+In this blog, I will demonstrate how to make a web scraper that extracts information from a movie/TV show's IMDB page, from which we can determine movies/TV shows that share the most actors with our favorite movie/TV shows. 
+
+Here is the link to my GitHub repository: https://github.com/jianili31/imdb_scraper
+
+
+
 ```python
 import pandas as pd
 ```
